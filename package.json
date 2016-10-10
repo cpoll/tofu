@@ -4,7 +4,8 @@
   "description": "tofu game",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "dev": "gulp serve"
   },
   "author": "",
   "license": "ISC",
